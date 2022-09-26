@@ -1,11 +1,6 @@
 print('Simon')
-print('Ezy')
-print('Austin') 
-print('chidi')
-print('glory')
-
-
- 
-
-
-
+# echo simon
+print('Glory')
+print('Chidi')
+print('Grace')
+print('Ivo')

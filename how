@@ -1,0 +1,67 @@
+[33mcommit b2aa910596afedc1acf3b5176ba37bfed2bad0f5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Prince <skesy69@gmail.com>
+Date:   Tue Sep 27 18:38:02 2022 +0000
+
+    .gitignore file created
+
+[33mcommit a8d40adb3bb6de7890f2d76c0b5495c34a47361e[m
+Merge: aa1452d 25dcc6f
+Author: Prince <skesy69@gmail.com>
+Date:   Tue Sep 27 16:19:38 2022 +0000
+
+    Merge remote-tracking branch 'tls/master'
+
+[33mcommit 25dcc6f0743cf2a16fd64192a65084812c3e5f3a[m[33m ([m[1;31mtls/master[m[33m)[m
+Author: kdsystems <114386934+kdsystems@users.noreply.github.com>
+Date:   Tue Sep 27 19:09:07 2022 +0300
+
+    Create monitor.app
+
+[33mcommit aa1452d465ac71e32f25f9eec45cc9ddf4be5074[m
+Merge: 86e668c f18f689
+Author: Prince <skesy69@gmail.com>
+Date:   Tue Sep 27 15:58:46 2022 +0000
+
+    Merge branch 'master' of https://github.com/landmarkDeOps/tesla
+
+[33mcommit 86e668c6780243fd7f53ab896949c5755bfc2299[m
+Author: Prince <skesy69@gmail.com>
+Date:   Tue Sep 27 14:05:51 2022 +0000
+
+    list.java
+
+[33mcommit f18f6897b208a8f8ebdca10f00f9f0f444b0b1f1[m
+Author: kdsystems <114386934+kdsystems@users.noreply.github.com>
+Date:   Tue Sep 27 12:03:54 2022 +0300
+
+    updated list.java with chi
+
+[33mcommit 7d0f2e53b9918baaa04c397f97e3d77304c2ee0a[m
+Author: Prince <skesy69@gmail.com>
+Date:   Mon Sep 26 18:26:46 2022 +0000
+
+    users list created
+
+[33mcommit 9f13cdefc7568a5995b4878f6cbaea54f6ac71f9[m
+Author: Prince <skesy69@gmail.com>
+Date:   Mon Sep 26 09:06:56 2022 +0000
+
+    Deployment read
+
+[33mcommit 2c6624a397813f61efce70539c6c6889329753d9[m
+Author: Prince <skesy69@gmail.com>
+Date:   Mon Sep 26 08:56:46 2022 +0000
+
+    first version
+
+[33mcommit a814012360861ae316594dd12c7cbf814aa6f9ff[m
+Author: Ezy <ezy@gmail.com>
+Date:   Sun Sep 25 19:00:15 2022 +0000
+
+    deployment ready
+
+[33mcommit c241b79a9efcd8671aa47ed80df4f619d8eb0cf4[m
+Author: Ezy <ezy@gmail.com>
+Date:   Sun Sep 25 18:47:14 2022 +0000
+
+    first version
